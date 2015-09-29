@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SlickRateApp</string>
+
+    <string name="dialog_message1">Enjoying our app?</string>
+    <string name="dialog_message2">How about a rating on the Play Store, then?</string>
+    <string name="dialog_message3">Would you mind giving us some feedback?</string>
+    <string name="positive_message1">Yes!</string>
+    <string name="positive_message2">Ok, sure</string>
+    <string name="positive_message3">Ok, sure</string>
+    <string name="negative_message1">Not really</string>
+    <string name="negative_message2">No, thanks</string>
+    <string name="negative_message3">No, thanks</string>
+</resources>
