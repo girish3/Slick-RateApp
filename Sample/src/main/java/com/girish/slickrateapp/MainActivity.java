@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         SlickRateDialog dialog = new SlickRateDialog(this);
+        dialog.setEmailAddress("someRandomGuy@gmail.com");
         dialog.showDialogIfRequired();
     }
 
